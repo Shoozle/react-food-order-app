@@ -1,0 +1,30 @@
+.mealDealItem{
+    padding: 2rem 1rem;
+    font-size: 1rem;
+    border-bottom: 1px solid slategray;
+    margin: 0 1rem;
+}
+
+.mealDealItem:last-of-type{
+    border-bottom: none;
+}
+
+.mealDealItem div{
+
+}
+
+.mealDealItem h3 {
+
+}
+
+.mealDealItem h4 {
+
+}
+
+.saving {
+
+}
+
+.score {
+
+}

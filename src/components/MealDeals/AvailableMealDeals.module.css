@@ -1,0 +1,9 @@
+.meals{
+    max-width: 60%;
+    margin: 1rem auto;
+}
+
+.meals ul {
+    list-style-type: none;
+    padding: 1rem 1.2rem;
+}

@@ -1,23 +1,29 @@
 import classes from './AvailableMealDeals.module.css';
+import Card from '../UI/Card';
+import MealDealItem from './MealDealItem/MealDealItem';
 
 const mealDeals = require('./MealDealsData.json');
 
 const AvailableMeals = () => {
     console.log(mealDeals);
-    
-    const mealDealList = mealDeals.map(meal => {
+
+    const mealDealList = mealDeals.map(mealDeal => {
         return (
-            <li className={classes.mealDealItem}>
-                {meal.main}
-            </li>
+            <MealDealItem
+                key={mealDeal.id}
+                {...mealDeal}
+            >
+            </MealDealItem>
         )
     })
 
     return (
-        <section>
-            <ul className={classes.meals}>
-                {mealDealList}
-            </ul>
+        <section className={classes.meals}>
+            <Card>
+                <ul >
+                    {mealDealList}
+                </ul>
+            </Card>
         </section>
     )
 }
