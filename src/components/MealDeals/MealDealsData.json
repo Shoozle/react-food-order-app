@@ -1,0 +1,38 @@
+[
+    {
+        "id": "md1",
+        "main": "Prawn Mayo",
+        "side": "Millionaire Short Bread",
+        "drink": "Innocent Smoothie",
+        "saving": "1.95",
+        "store": "M&S",
+        "score": "6"
+    },
+    {
+        "id": "md2",
+        "main": "Classic BLT",
+        "side": "McCoys Flame Grilled Steak Crisps",
+        "drink": "Raspberry J20",
+        "saving": "2.20",
+        "store": "Tesco",
+        "score": "7"
+    }, 
+    {
+        "id": "md3",
+        "main": "Chicken Ceasar Wrap",
+        "side": "Flapjack",
+        "drink": "Relentless",
+        "saving": "£2.25",
+        "store": "Co-op",
+        "score": "5"
+    }, 
+    {
+        "id": "md4",
+        "main": "Chicken, Bacon and Stuffing",
+        "side": "BBQ Beef Hula Hoops",
+        "drink": "Monster Energy Ultra",
+        "saving": "£2.95",
+        "store": "McColls",
+        "score": "10"
+    }
+]
