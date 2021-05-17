@@ -20,6 +20,11 @@
     z-index: 10;
     padding: 0 10%;
     color: white;
+    
+}
+
+.Header h1 {
+    font-weight: 300;
 }
 
 .main-image{
