@@ -2,7 +2,7 @@
     {
         "id": "md1",
         "main": "Prawn Mayo",
-        "side": "Millionaire Short Bread",
+        "snack": "Millionaire Short Bread",
         "drink": "Innocent Smoothie",
         "price": 3.00,
         "store": "M&S",
@@ -11,7 +11,7 @@
     {
         "id": "md2",
         "main": "Classic BLT",
-        "side": "McCoys Flame Grilled Steak Crisps",
+        "snack": "McCoys Flame Grilled Steak Crisps",
         "drink": "Raspberry J20",
         "price": 3.00,
         "store": "Tesco",
@@ -20,7 +20,7 @@
     {
         "id": "md3",
         "main": "Chicken Ceasar Wrap",
-        "side": "Flapjack",
+        "snack": "Flapjack",
         "drink": "Relentless",
         "price": 3.25,
         "store": "Co-op",
@@ -29,7 +29,7 @@
     {
         "id": "md4",
         "main": "Chicken, Bacon and Stuffing",
-        "side": "BBQ Beef Hula Hoops",
+        "snack": "BBQ Beef Hula Hoops",
         "drink": "Monster Energy Ultra",
         "price": 3.50,
         "store": "McColls",

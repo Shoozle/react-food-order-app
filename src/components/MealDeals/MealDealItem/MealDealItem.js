@@ -12,7 +12,7 @@ const MealDealItem = props => {
         cartCtx.addItem({
             id: props.id,
             main: props.main,
-            side: props.side,
+            snack: props.snack,
             drink: props.drink,
             amount: amount,
             price: props.price
@@ -22,7 +22,7 @@ const MealDealItem = props => {
     return (
         <li className={classes.mealDealItem}>
             <div>
-                <h3>{props.main}, {props.side}, {props.drink}</h3>
+                <h3>{props.main}, {props.snack}, {props.drink}</h3>
                 <div className={classes.price}>{price}</div>
                 <div className={classes.score}>{props.score}/10</div>
             </div>
