@@ -4,7 +4,7 @@
         "main": "Prawn Mayo",
         "side": "Millionaire Short Bread",
         "drink": "Innocent Smoothie",
-        "saving": 1.95,
+        "price": 3.00,
         "store": "M&S",
         "score": "6"
     },
@@ -13,7 +13,7 @@
         "main": "Classic BLT",
         "side": "McCoys Flame Grilled Steak Crisps",
         "drink": "Raspberry J20",
-        "saving": 2.20,
+        "price": 3.00,
         "store": "Tesco",
         "score": "7"
     }, 
@@ -22,7 +22,7 @@
         "main": "Chicken Ceasar Wrap",
         "side": "Flapjack",
         "drink": "Relentless",
-        "saving": 2.25,
+        "price": 3.25,
         "store": "Co-op",
         "score": "5"
     }, 
@@ -31,7 +31,7 @@
         "main": "Chicken, Bacon and Stuffing",
         "side": "BBQ Beef Hula Hoops",
         "drink": "Monster Energy Ultra",
-        "saving": 2.95,
+        "price": 3.50,
         "store": "McColls",
         "score": "10"
     }
