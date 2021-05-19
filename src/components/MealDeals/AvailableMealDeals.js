@@ -5,8 +5,6 @@ import MealDealItem from './MealDealItem/MealDealItem';
 const mealDeals = require('./MealDealsData.json');
 
 const AvailableMeals = () => {
-    console.log(mealDeals);
-
     const mealDealList = mealDeals.map(mealDeal => {
         return (
             <MealDealItem

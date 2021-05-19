@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-around;
     width: 13rem;
-    background-color: #1f1f1f;
+    background-color: #4d4c4c;
     border-radius: 40px;
     padding: 1rem 1.3rem;
     color: white;
@@ -15,7 +15,6 @@
 .button:hover,
 .button:active {
     background-color: rgb(37, 35, 35);
-    transform: translateY(-2px);
 }
 
 .icon{
@@ -25,4 +24,18 @@
 
 .total{
 
+}
+
+.bump {
+    animation: bump 300ms ease-out;
+}
+
+@keyframes bump {
+    0% {
+        transform: scale(1)
+    }
+
+    10%{
+        transform: scale(0.9)
+    }
 }
