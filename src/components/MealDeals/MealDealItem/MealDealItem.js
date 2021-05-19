@@ -1,4 +1,5 @@
 import classes from './MealDealItem.module.css';
+import MealDealItemForm from './MealDealItemForm';
 
 const MealDealItem = props => {
 
@@ -12,7 +13,7 @@ const MealDealItem = props => {
                 <div className={classes.score}>{props.score}/10</div>
             </div>
             <div>
-                
+                <MealDealItemForm />
             </div>
         </li>
     )
