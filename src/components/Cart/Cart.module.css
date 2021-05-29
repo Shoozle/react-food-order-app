@@ -3,3 +3,7 @@
     overflow: scroll;
     overflow-x: initial;
 }
+
+span{
+    font-size: .9rem;
+}
