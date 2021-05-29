@@ -7,3 +7,13 @@
     list-style-type: none;
     padding: 1rem 1.2rem;
 }
+
+.MealsLoading {
+    text-align: center;
+    color: white;
+}
+
+.MealsError{
+    text-align: center;
+    color: red;
+}
